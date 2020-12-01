@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+.game {
+  padding: 10px;
+  background-color: #f3f3f3;
+  margin: auto;
+  width: 400px;
+}
+
+.tile {
+  background-color: #fafafa;
+}
+
+.tile-b {
+  background-color: #1b1b1b;
+}
+
+.tile-border {
+  background-color:#f3f3f3;
+}
+
+
+.tile-border-b {
+  background-color: #141414;
+}
+
+table {
+  border: 0px;
+  border-collapse: collapse;
+  padding: 0px;
+  border-spacing: 0px;
+}
+
+td {
+  border: none;
+  padding: 0px;
+}
+
+tr {
+  border: none;
+  padding: 0px;
+}
